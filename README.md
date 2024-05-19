@@ -1,16 +1,27 @@
-# flutterr
+# JobTracker
 
-A new Flutter project.
+JobSearchTracker is a Flutter application designed to streamline your job search process. With this app, you can easily manage and track all your job applications, keeping tabs on their statuses whether they are pending, accepted, or rejected. Additionally, you can effortlessly delete entries that are no longer relevant, keeping your job search organized and efficient.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Track Job Applications**: Keep a comprehensive list of all your job applications in one place.
+- **Manage Application Status**: Easily update the status of each job application as it progresses through the hiring process.
+- **Delete Entries**: Remove job applications that are no longer relevant or needed.
+- **Intuitive Interface**: User-friendly design makes it easy to navigate and manage your job search.
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To run JobSearchTracker on your device, follow these steps:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Make sure you have Flutter installed. If not, follow the [installation instructions](https://flutter.dev/docs/get-started/install).
+2. Clone this repository to your local machine.
+3. Navigate to the project directory.
+4. Run `flutter pub get` to install dependencies.
+5. Run `flutter run` to launch the application on your connected device or emulator.
+
+
+
+## Contributing
+
+Contributions are welcome.
+
